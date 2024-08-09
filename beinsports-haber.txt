@@ -2,5 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-beIN SPORTS HABER | | | |
-https://www.youtube.com/c/beINSPORTSTürkiye/live
+中天新闻 | Noticias | https://yt3.ggpht.com/oBG_RhO7zYUvD5myW-MBSp0l1HyrNg9fDNNFneSl9bJh--cPDJ_b--ihfjZVr-9JNen8Xt6IYmA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+凤凰资讯 | Noticias | https://yt3.googleusercontent.com/xRzFRWvnoq0_LhQKQCwUs8s0ih6PSMoiC_salKUAIFPdUyln2Bnfcvvmz4hemA83zfQHNQvlasU=s176-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/watch?v=XqstiwkAcDU
